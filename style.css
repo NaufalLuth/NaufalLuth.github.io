@@ -5,3 +5,18 @@
 #project {
   background-color: #eaf2f8;
 }
+
+#contact {
+  padding-top: 6rem;
+}
+
+footer p a {
+  color: black;
+}
+
+footer p a:hover {
+  color: rgb(146, 190, 231);
+}
+footer p a:active {
+  color: rgb(0, 45, 87);
+}
